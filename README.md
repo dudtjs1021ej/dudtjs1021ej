@@ -1,16 +1,15 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20&fontSize=70&rotate=10&descAlign=85&fontAlign=80&desc=I'm%20Youngsun&descSize=30&fontAlignY=23&descAlignY=45&animation=fadeIn)
+
 ### Hi there 👋
+I'm interested in **iOS**🍎
+</br>
 
-<!--
-**dudtjs1021ej/dudtjs1021ej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Swift&logoColor=white"/>
+<br/><br/>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=dudtjs1021ej)](https://github.com/ryo-ma/github-profile-trophy)
+<br/><br/>
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=dudtjs1021ej&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
